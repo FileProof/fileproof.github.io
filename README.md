@@ -1,5 +1,7 @@
 # Identity Authentication - Project Manager / Product Owner 
 
+[Ray's Full CV](https://bit.ly/raysume-onepage)
+
 ### Education 
 MSc Computer Science 
 
