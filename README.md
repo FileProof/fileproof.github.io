@@ -5,12 +5,12 @@
 ## About
 - Over 20 years experience developing and managing cutting-edge IT solutions
 - Pioneered FIDO2 Passwordless in designing his zero-password.com IDP from 2019
-- Involved in Convolutional Neural Network (CNN) research aiming to disrupt Biometric data storage
+- Involved in Convolutional Neural Network (CNN) new approach aiming to better protect Biometric data
 
 ### Education 
 MSc Computer Science 
 
-### Work Experience
+### Current Work
 Head of product @ domino.vote  Estonia, Switzerland, 2017-present
 - documents authentication, verification, notarization
 - E2E verifiable mobile voting 
