@@ -6,7 +6,7 @@
 - 20+ years experience managing and developing cutting-edge software solutions
 - Identity & Access Management (IAM) focus 
   - **pioneered FIDO2 Passwordless:** designed in 2019 his biometric-based IDP zero-password.com
-  - **new project:** involved in _Convolutional Neural Network_ (CNN) new work aiming to bypass vaults honeypot storing critical data in ID authentication
+  - **ongoing exploration:** involved in _Convolutional Neural Network_ (CNN) new pilot study aiming to bypass vaults honeypot storing critical data in ID authentication
   - implemented SSO in private banking
   - implemented RBAC in airline
 
