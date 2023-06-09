@@ -4,7 +4,7 @@
 
 ## About
 - 20+ years experience managing and developing cutting-edge software solutions
-- Ray is currently mainly focused on Identity & Access Management (**IAM**) projects: 
+- Ray's focused is on Identity & Access Management (**IAM**) projects with a distinctive expertise in Identity Authentication: 
   - **Passwordless:** 
     - Ray anticipated the FIDO2 Passwordless emerging standard in developing in 2019 his biometric-based IDP zero-password.com
   - **Exploration:** 
